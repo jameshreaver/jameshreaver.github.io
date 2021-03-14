@@ -1,0 +1,5 @@
+User-agent: Googlebot-Image
+Disallow: /*.png$
+Disallow: /*.pdf$
+Disallow: /*.jpg$
+Disallow: /
